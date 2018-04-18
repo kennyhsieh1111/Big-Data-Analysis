@@ -8,3 +8,4 @@ Big Data Analysis
 ## Homework
 - Homework 1 : Crawler for NSYUS News Titles
 - Homework 2 : Random Forest Classifier Practice
+- Homework 3 : Titanic : Machine Learning from Disaster
