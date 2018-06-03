@@ -9,5 +9,6 @@ Big Data Analysis
 - Homework 1 : Crawler for NSYUS News Titles
 - Homework 2 : Random Forest Classifier Practice
 - Homework 3 : Titanic : Machine Learning from Disaster
-- Midterm : TBrain Taiwan ETF Price Prediction Contest
+- Midterm : [TBrain Taiwan ETF Price Prediction Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/2)
 - Homework 4 : OOP Practice, Standardscaler
+- Homework 5 : Titanic using Neural Network
