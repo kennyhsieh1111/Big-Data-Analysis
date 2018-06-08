@@ -12,3 +12,4 @@ Big Data Analysis
 - Midterm : [TBrain Taiwan ETF Price Prediction Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/2)
 - Homework 4 : OOP Practice, Standardscaler
 - Homework 5 : Titanic using Keras Neural Network
+- Bonus 1 : Sobel Operator Convolution Overflow Implement
